@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.152,
+          "height": 1.152,
+          "width": 1.152
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -413,6 +413,38 @@
     [
       "cde0f8a9-6707-447a-b3f7-b47113dc7612",
       ""
+    ],
+    [
+      "347e2624-078f-40b0-bbdd-03d258335d66",
+      "Voltage Divider"
+    ],
+    [
+      "67ec89ee-5ea4-47e8-928c-d46a3b6311a1",
+      "Voltage Divider1"
+    ],
+    [
+      "5693c4ea-4864-4ba5-bce2-29047accd9b9",
+      "Voltage Divider2"
+    ],
+    [
+      "c56a3633-0c74-405a-beb9-6607c7ec1e06",
+      "Voltage Divider3"
+    ],
+    [
+      "66ea2d72-8d2c-4f71-b1fd-7a8e9429796f",
+      "Voltage Divider4"
+    ],
+    [
+      "f276a243-ceac-4d39-bdde-87c8015d8fa2",
+      "Voltage Divider5"
+    ],
+    [
+      "863a0809-ea20-443b-b4f9-3e4119c1cbc8",
+      "Voltage Divider6"
+    ],
+    [
+      "09638020-4b95-4715-b045-e473748f2efd",
+      "Voltage Divider7"
     ]
   ],
   "text_variables": {}
